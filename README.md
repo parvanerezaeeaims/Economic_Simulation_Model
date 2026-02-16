@@ -60,7 +60,8 @@ The goal of this project is to demonstrate how OOP can be used to design structu
 - Employees generate economic output for workplaces.
 
 ---
-![./images/Diagram.png](https://github.com/parvanerezaeeaims/Economic_Simulation_Model/main/Images/Diagram.png)
+![./images/Diagram.png](https://github.com/parvanerezaeeaims/Economic_Simulation_Model/blob/main/images/Diagram.png)
+
 
 ## 🚀 How to Run
 
